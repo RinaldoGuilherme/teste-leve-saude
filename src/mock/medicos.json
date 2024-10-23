@@ -1,0 +1,126 @@
+[
+  {
+    "id": 1,
+    "nome": "João Silva",
+    "genero": "M",
+    "especialidade": { "id": 1, "nome": "Cardiologista" },
+    "agenda": [
+      {
+        "id": 1,
+        "medico": 1,
+        "dataAgendamento": "2024-10-05T09:00:11.Z00",
+        "deletado": 0,
+        "dataCadastro": "2024-10-05T09:00:11.Z00",
+        "dataAlteracao": "2024-10-05T09:00:11.Z00"
+      }
+    ],
+    "dataCadastro": "2024-10-05T09:00:11.Z00",
+    "dataAlteracao": "2024-10-05T09:00:11.Z00"
+  },
+  {
+    "id": 2,
+    "nome": "Maria Souza",
+    "genero": "F",
+    "agenda": [
+      {
+        "id": 1,
+        "medico": 1,
+        "dataAgendamento": "2024-10-05T09:00:11.Z00",
+        "deletado": 0,
+        "dataCadastro": "2024-10-05T09:00:11.Z00",
+        "dataAlteracao": "2024-10-05T09:00:11.Z00"
+      }
+    ],
+    "especialidade": { "id": 2, "nome": "Dermatologista" },
+    "dataCadastro": "2024-10-05T09:00:11.Z00",
+    "dataAlteracao": "2024-10-05T09:00:11.Z00"
+  },
+  {
+    "id": 2,
+    "nome": "Retano Cunha",
+    "genero": "M",
+    "agenda": [
+      {
+        "id": 1,
+        "medico": 1,
+        "dataAgendamento": "2024-10-05T09:00:11.Z00",
+        "deletado": 0,
+        "dataCadastro": "2024-10-05T09:00:11.Z00",
+        "dataAlteracao": "2024-10-05T09:00:11.Z00"
+      }
+    ],
+    "especialidade": { "id": 3, "nome": "Pediatra" },
+    "dataCadastro": "2024-10-05T09:00:11.Z00",
+    "dataAlteracao": "2024-10-05T09:00:11.Z00"
+  },
+  {
+    "id": 2,
+    "nome": "Renan Silva",
+    "genero": "M",
+    "agenda": [
+      {
+        "id": 1,
+        "medico": 1,
+        "dataAgendamento": "2024-10-05T09:00:11.Z00",
+        "deletado": 0,
+        "dataCadastro": "2024-10-05T09:00:11.Z00",
+        "dataAlteracao": "2024-10-05T09:00:11.Z00"
+      }
+    ],
+    "especialidade": { "id": 4, "nome": "Clinico Geral" },
+    "dataCadastro": "2024-10-05T09:00:11.Z00",
+    "dataAlteracao": "2024-10-05T09:00:11.Z00"
+  },
+  {
+    "id": 2,
+    "nome": "Ana Silva",
+    "genero": "F",
+    "agenda": [
+      {
+        "id": 1,
+        "medico": 1,
+        "dataAgendamento": "2024-10-05T09:00:11.Z00",
+        "deletado": 0,
+        "dataCadastro": "2024-10-05T09:00:11.Z00",
+        "dataAlteracao": "2024-10-05T09:00:11.Z00"
+      }
+    ],
+    "especialidade": { "id": 5, "nome": "Psicologo" },
+    "dataCadastro": "2024-10-05T09:00:11.Z00",
+    "dataAlteracao": "2024-10-05T09:00:11.Z00"
+  },
+  {
+    "id": 2,
+    "nome": "Ana Paula",
+    "genero": "F",
+    "agenda": [
+      {
+        "id": 1,
+        "medico": 1,
+        "dataAgendamento": "2024-10-05T09:00:11.Z00",
+        "deletado": 0,
+        "dataCadastro": "2024-10-05T09:00:11.Z00",
+        "dataAlteracao": "2024-10-05T09:00:11.Z00"
+      },
+      {
+        "id": 1,
+        "medico": 1,
+        "dataAgendamento": "2024-10-05T09:00:11.Z00",
+        "deletado": 1,
+        "dataCadastro": "2024-10-05T09:00:11.Z00",
+        "dataAlteracao": "2024-10-05T09:00:11.Z00"
+      },
+      {
+        "id": 1,
+        "medico": 1,
+        "dataAgendamento": "2024-10-05T09:00:11.Z00",
+        "deletado": 0,
+        "dataCadastro": "2024-10-05T09:00:11.Z00",
+        "dataAlteracao": "2024-10-05T09:00:11.Z00"
+      }
+    ],
+    "especialidade": { "id": 4, "nome": "Clinico Geral" },
+    "dataCadastro": "2024-10-05T09:00:11.Z00",
+    "dataAlteracao": "2024-10-05T09:00:11.Z00"
+  }
+]
